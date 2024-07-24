@@ -1,6 +1,3 @@
-
-
-
 ## Docker basic commands:
 
 - docker info —>info about how many containers,images e.t.c
